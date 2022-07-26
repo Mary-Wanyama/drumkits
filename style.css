@@ -1,0 +1,70 @@
+.drum{
+    width: 5vw;
+    height: 5vw;
+    box-shadow: 5px 5px 0.2em brown;
+    margin: 1.5vw;
+    padding: 1vw;
+    background-color: red;
+    border-radius: 5%;
+    border-width: 0.5vw;
+    border-style: solid maroon;
+    font-size: 2vw;
+    color: greenyellow;
+    font-weight: 500;
+    text-decoration: double;
+}
+.beat{
+    height: 43vw;
+    text-align: center;
+    font-size: 1vw;
+}
+
+footer{
+    height: 5.05vw;
+    width: 100%;
+    background-color: maroon;
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    width: 100%;
+    background-color: maroon;
+    padding: 0%;
+    margin: 0%;
+    height: 3vw;
+}
+h2{
+    font-size: 5vw;
+    padding-top: 2vw;
+}
+h3{
+    font-size: 3vw;
+}
+.W{
+    background-image: url(flower1.jpeg);
+    background-position: center;
+}
+.A{
+    background-image: url(flower2.jpeg);
+    background-position: center;
+}
+.S{
+    background-image: url(flower3.jpg);
+    background-position: center;
+}
+.D{
+    background-image: url(flower4.jpg);
+    background-position: center;
+}
+.J{
+    background-image: url(flower5.jpg);
+    background-position: center;
+}
+.K{
+    background-image: url(flower6.jpg);
+    background-position: center;
+}
+.L{
+    background-image: url(flower7.jpeg);
+    background-position: center;
+}

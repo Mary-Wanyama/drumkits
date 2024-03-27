@@ -15,6 +15,12 @@ document.addEventListener('keypress', function(event){
     makeSound(event.key);
 });
 
+
+document.querySelector('#song').addEventListener('click', function() {
+    var songs = new Audio("song.mp3")
+    songs.play()
+})
+
 function makeSound(key) {
     switch (key) {
         case 'A':
@@ -45,6 +51,7 @@ function makeSound(key) {
                 var tom7 = new Audio("sounds/snare.mp3");
                 tom7.play();
             break;
+           
     
         default:
             break;
